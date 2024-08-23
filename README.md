@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to upload files asynchronously to the server using the Syncfusion [Vue File Upload]( https://www.syncfusion.com/vue-components/vue-file-upload?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-file-upload-asynchronous-upload-sample) component. This project contains code to configure a few of the component’s features: sequential upload, chunk upload, and disable auto upload. It also shows how to preload files in the upload list and upload all files within a directory.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/file-upload?title=how-to-upload-files-asynchronously-in-the-vue-file-upload 
 
 Refer to the following documentation to learn about the Vue File Upload component: https://ej2.syncfusion.com/vue/documentation/uploader/async
 
